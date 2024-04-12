@@ -2,7 +2,7 @@
 
 **syscall_dumper:** dumps the sycalls of the Windows OS in which the tool is executed.
 
-**syscall_finder:** gets the sycall name if syscall id is provided and vice versa. This can be used in conjunction with other scripts to resolve syscall ids/names as needed.
+**syscall_finder:** gets the syscall name if syscall id is provided and vice versa. This can be used in conjunction with other scripts to resolve syscall ids/names as needed.
 
 
 
